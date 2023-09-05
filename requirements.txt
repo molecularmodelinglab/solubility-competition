@@ -1,0 +1,5 @@
+PyTDC
+scikit-learn
+numpy
+rdkit
+tqdm
