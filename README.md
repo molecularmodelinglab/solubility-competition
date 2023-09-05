@@ -16,7 +16,7 @@ You may work alone or in teams of up to 3 people.
 
 1. When developing your model, you may only check the performance of your current model on the validation set. You may not try your model on the test split until you are ready to submit. You must submit your final performance once you try it out on the test split, regardless of how you feel about the result.
 2. When you are ready to submit, change the `split_name` variable from `valid` to `test` in `competition.py`. Run the code and copy full output of the script. Send this output to @mixarcid, along with your team name.
-3. The deadline for submissions is *Friday, Oct 6 at 11:59 ET*.
+3. The deadline for submissions is **Friday, Oct 6 at 11:59 ET**.
 4. The winner will be the team with the highest R2 (or, equivalently, the lowest MSE).
 5. Have fun.
 
