@@ -22,7 +22,11 @@ You may work alone or in teams of up to 3 people.
 
 ## Getting started
 
-In order to get started, make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+In order to get started, make sure you have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and [conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html). [Fork this repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo) onto your computer. If you're on a team, make sure only one person forks the repository and shares it with the rest of the team!
+
+If you have never used conda before, check out [this tutorial](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html#managing-python). You'll want to create a new conda environment with Python 3.11 installed. Then open up a terminal in your environment (this can be done easily from the Conda GUI on Windows). `cd` to the directory where you cloned this repository, and run `pip install -r requirements.txt` to install all the required packages.
+
+Now you _should_ be all set up. Try running `python competition.py` and see what happens. If you don't see any errors, you're good to go! If you see an error that confuses you, please reach out on slack! Ping @mixarcid for any questions.
 
 ## Tips
 
